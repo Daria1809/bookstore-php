@@ -1,4 +1,3 @@
--- eshop;
 CREATE DATABASE eshop;
 USE eshop;
 
